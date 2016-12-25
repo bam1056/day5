@@ -1,0 +1,3 @@
+# Javascript30 Day 5: CSS Gallery
+
+This is day 5 of Wes Bos' awesome Javascript 30 Day Challenge, where he has challened developers to hone their javascript skills through creating simple projects that don't utilize any frameworks or libraries, only using pure vanilla javascript and HTML and CSS. The only thing required to use this repo is to clone it and open index html in your browser. No dependencies, no NPM init/install, no webpack config. Easy-peasy! If you haven't already, please visit [Wes Bos's site] (http://wesbos.com/courses) and check out his other video series, they are awesome. Enjoy!
